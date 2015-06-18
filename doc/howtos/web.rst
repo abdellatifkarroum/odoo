@@ -1169,7 +1169,7 @@ Exercise
                 </t>
                 <t t-name="HomePage">
                     <div>
-                        <div class="oe_color_div"></div>
+                        <div class="oe_color_div">Hello Odoo !!!!!</div>
                     </div>
                 </t>
             </templates>
